@@ -1,4 +1,6 @@
-# 42. Trapping Rain Water (from Leetcode.com)
+My submission for the following challenge on Leetcode.com:
+
+# 42. Trapping Rain Water
 
 Difficulty: `Hard`
 
@@ -19,7 +21,7 @@ Explanation: The above elevation map (black section) is represented by array [0,
 Input: height = [4,2,0,3,2,5]
 Output: 9
 
-Constraints:
+## Constraints:
 
 - `n == height.length`
 - `1 <= n <= 2 \* 104`
